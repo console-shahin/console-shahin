@@ -9,9 +9,9 @@ I'm Shahin a Full Stack Web Developer and Learner on [M](https://www.mongodb.com
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @ 😄
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Outstanding web app ideas.
+- 📚 I’m currently learning React, Javascript, Nodejs, Expressjs and MongoDB.
+- 👯 I’m looking to collaborate with other passionate developers.
+- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
 - 💬 Ask me about ...🤔
 - 📫 How to reach me: console.shahin@gmail.com.
 - 😄 Pronouns: ...
@@ -74,7 +74,7 @@ Currently looking for myself 😅 😅 |
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 hrs 41 mins  ██████████████░░░░░░░░░░░   42.29 %
+JavaScript   15 hrs 41 mins  ██████████████ ----------   42.29 %
 Node         9 hrs 23  mins  ████████░░░░░░░░░░░░░░░░░   69.93 % 
 CSS          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 HTML         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
