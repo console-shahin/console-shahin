@@ -2,7 +2,7 @@
 
 I'm Shahin a Full Stack Web Developer and Learner on [M](https://www.mongodb.com)[E](https://expressjs.com/)[R](https://reactjs.org/)[N](https://nodejs.org). I Spend most of time coding outstanding projects or learn coding
 
-:mailbox: Reach me out!
+: mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Shahin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/console_shahin) [![Mail Badge](https://img.shields.io/badge/-σffιcιαlՏíIҽղtςσᦔҽr̷-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPRtKN7_WIXcQWv1mUMMDBA) [![Linkedin Badge](https://img.shields.io/badge/-ShahinSarkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shahin-sarkar-3bab06204/) [![Mail Badge](https://img.shields.io/badge/-@Shahin.git-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shahin.git/) [![Mail Badge](https://img.shields.io/badge/-Shahin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:console.shahin@gmail.com)
 
