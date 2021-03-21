@@ -8,7 +8,7 @@ I'm Shahin a Full Stack Web Developer and Learner on [M](https://www.mongodb.com
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @ 😄
+- 🔭 I’m currently working at @ 😄😄
 - 📚 I’m currently learning React, Javascript, Nodejs, Expressjs and MongoDB.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
@@ -60,8 +60,6 @@ I'm Shahin a Full Stack Web Developer and Learner on [M](https://www.mongodb.com
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=console-shahin)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit)
 
 
 <br >
